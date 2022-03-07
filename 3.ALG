@@ -1,5 +1,8 @@
 Algoritmo "protot2 matheus sales"
-
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : EDILENE APARECIDA
+// Descrição   : PRIMEIRA ATIVIDADE DE LÓGICA
+// Autor(a)    : Nome do(a) aluno(a) matheus sales de moraes
 
 Var
 
